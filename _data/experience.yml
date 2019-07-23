@@ -1,5 +1,6 @@
 # Jobs
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Trainer
 - company: GitHub, Inc.
   position: GitHub Trainer
@@ -13,12 +14,15 @@
   summary: I only live to get radical.
 >>>>>>> origin/master
 
+=======
+>>>>>>> d249eeb8b16c26dcc856e3a391b7d0a338587f19
 # Job Title
 - company: Conway Meats
   position: Web Developer
   duration: May, 2014 &mdash; May, 2015
   summary: Web developer for a restuarant meat provider.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # Supportocat
 - company: GitHub, Inc.
@@ -32,3 +36,6 @@
   duration:  June, 2017  &mdash; August, 2017
   summary: Redesigned the services.github.com website without a calendar
 >>>>>>> origin/master
+=======
+
+>>>>>>> d249eeb8b16c26dcc856e3a391b7d0a338587f19
